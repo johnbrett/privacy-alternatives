@@ -8,12 +8,14 @@ There is a list of notable mentions below of up and coming software that can hop
 Software Alternatives
 ====================
 
-| Software      | Current Best In Class     | Privacy Alternative                                        |
-| ------------- | -----------               | --------------------                                       |
-| Email         | Gmail                     | [Proton Mail](https://protonmail.ch/)                      |
-| Phone OS      | Android, iOS              | [Firefox OS](https://www.mozilla.org/en-US/firefox/os/)    |
-| Browser       | Chrome                    | [Firefox](https://www.mozilla.org/en-US/firefox/new/)      |
-| Search Engine | Google                    | [DuckDuckGo](https://duckduckgo.com/)                      |
+| Software          | Current Best In Class     | Privacy Alternative                                        |
+| -------------     | -----------               | --------------------                                       |
+| Email             | Gmail                     | [Proton Mail](https://protonmail.ch/)                      |
+| Phone OS          | Android, iOS              | [Firefox OS](https://www.mozilla.org/en-US/firefox/os/)    |
+| Browser           | Chrome                    | [Firefox](https://www.mozilla.org/en-US/firefox/new/)      |
+| Search Engine     | Google                    | [DuckDuckGo](https://duckduckgo.com/)                      |
+| Social Network    | Facebook                  | ?                                                          |
+| Microblogging     | Twitter                   | ?                                                          |
 
 
 Upcoming Alternatives

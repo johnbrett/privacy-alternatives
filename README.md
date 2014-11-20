@@ -1,4 +1,4 @@
-Awesome Privacy Alternatives
+Awesome Open And Privacy Focused Alternatives
 ====================
 
 A curated list of awesome software alternatives that respect privacy. This is a list for *current* viable alternatives, they may be in beta, but must good enough for a direct switch if someone is looking to make the change right now.

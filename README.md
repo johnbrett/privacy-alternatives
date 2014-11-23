@@ -16,6 +16,7 @@ Software Alternatives
 | Search Engine     | Google                    | [DuckDuckGo](https://duckduckgo.com/)                      |
 | Social Network    | Facebook                  | ?                                                          |
 | Microblogging     | Twitter                   | ?                                                          |
+| Cloud Storage     | Dropbox, Google Drive     | ?                                                          |
 
 
 Upcoming Alternatives

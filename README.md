@@ -21,6 +21,6 @@ Software Alternatives
 
 Upcoming Alternatives
 ====================
-| Software      | Privacy Alternative                                        |
-| ------------- | --------------------                                       |
-|               |                                                            |
+| Software          | Privacy Alternative                                        |
+| -------------     | --------------------                                       |
+| Social Network    | [Heartbeat](https://ind.ie/about/vision/)                  |

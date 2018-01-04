@@ -14,6 +14,7 @@ Software Alternatives
 | Phone OS          | Android, iOS              | [Firefox OS](https://www.mozilla.org/en-US/firefox/os/)    |
 | Browser           | Chrome                    | [Firefox](https://www.mozilla.org/en-US/firefox/new/)      |
 | Search Engine     | Google                    | [DuckDuckGo](https://duckduckgo.com/)                      |
+| Maps              | Google Maps               | [OpenMapTiles](https://openmaptiles.org/) (self-hosted)    |
 | Social Network    | Facebook                  | ?                                                          |
 | Microblogging     | Twitter                   | ?                                                          |
 | Cloud Storage     | Dropbox, Google Drive     | ?                                                          |
